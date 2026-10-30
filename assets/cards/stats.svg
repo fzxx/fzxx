@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub 统计</title>
+  <desc id="desc">总星数 735，公开仓库 18，总 fork 数 109，语言 8 种</desc>
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, 'Microsoft YaHei', 'PingFang SC', sans-serif; fill: #C8F45A; }
+    .description { font: 400 13px 'Segoe UI', Ubuntu, 'Microsoft YaHei', 'PingFang SC', sans-serif; fill: #C9D1D9; }
+    .gray { font: 400 12px 'Segoe UI', Ubuntu, 'Microsoft YaHei', 'PingFang SC', sans-serif; fill: #C9D1D9; }
+    .badge { font: 600 11px 'Segoe UI', Ubuntu, 'Microsoft YaHei', 'PingFang SC', sans-serif; fill: #C9D1D9; }
+    .value { font: 700 24px 'Segoe UI', Ubuntu, 'Microsoft YaHei', 'PingFang SC', sans-serif; fill: #E7EAE4; }
+    .label { font: 400 11px 'Segoe UI', Ubuntu, 'Microsoft YaHei', 'PingFang SC', sans-serif; fill: #6B7378; letter-spacing: 2px; }
+  </style>
+
+  <rect x="0.5" y="0.5" width="494" height="194" rx="4.5" fill="#0B0D0F"/>
+
+  <text x="25" y="35" class="header">GITHUB STATS</text>
+  <line x1="25" y1="52" x2="470" y2="52" stroke="#ffffff" stroke-opacity="0.06"/>
+
+  <text x="25" y="100" class="value">735</text>
+  <text x="25" y="120" class="label">TOTAL STARS</text>
+  <text x="260" y="100" class="value">18</text>
+  <text x="260" y="120" class="label">PUBLIC REPOS</text>
+  <text x="25" y="160" class="value">109</text>
+  <text x="25" y="180" class="label">TOTAL FORKS</text>
+  <text x="260" y="160" class="value">8</text>
+  <text x="260" y="180" class="label">LANGUAGES</text>
+</svg>
