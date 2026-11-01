@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-labelledby="title desc">
   <title id="title">语言构成</title>
-  <desc id="desc">C++ 30.8%，Go 17.7%，JavaScript 16.5%，Rust 15.5%，HTML 13.3%，CSS 3.1%，Assembly 3.0%，C 0.1%</desc>
+  <desc id="desc">C++ 30.4%，Go 17.5%，JavaScript 17.4%，Rust 15.4%，HTML 13.1%，CSS 3.1%，Assembly 3.0%，C 0.1%</desc>
   <style>
     .header { font: 600 18px 'Segoe UI', Ubuntu, 'Microsoft YaHei', 'PingFang SC', sans-serif; fill: #C8F45A; }
     .description { font: 400 13px 'Segoe UI', Ubuntu, 'Microsoft YaHei', 'PingFang SC', sans-serif; fill: #C9D1D9; }
@@ -17,19 +17,19 @@
 
   <circle cx="30" cy="78" r="5" fill="#f34b7d"/>
   <text x="45" y="82" class="gray">C++</text>
-  <text x="230" y="82" class="gray" text-anchor="end">30.8%</text>
+  <text x="230" y="82" class="gray" text-anchor="end">30.4%</text>
   <circle cx="270" cy="78" r="5" fill="#00ADD8"/>
   <text x="285" y="82" class="gray">Go</text>
-  <text x="470" y="82" class="gray" text-anchor="end">17.7%</text>
+  <text x="470" y="82" class="gray" text-anchor="end">17.5%</text>
   <circle cx="30" cy="108" r="5" fill="#f1e05a"/>
   <text x="45" y="112" class="gray">JavaScript</text>
-  <text x="230" y="112" class="gray" text-anchor="end">16.5%</text>
+  <text x="230" y="112" class="gray" text-anchor="end">17.4%</text>
   <circle cx="270" cy="108" r="5" fill="#dea584"/>
   <text x="285" y="112" class="gray">Rust</text>
-  <text x="470" y="112" class="gray" text-anchor="end">15.5%</text>
+  <text x="470" y="112" class="gray" text-anchor="end">15.4%</text>
   <circle cx="30" cy="138" r="5" fill="#e34c26"/>
   <text x="45" y="142" class="gray">HTML</text>
-  <text x="230" y="142" class="gray" text-anchor="end">13.3%</text>
+  <text x="230" y="142" class="gray" text-anchor="end">13.1%</text>
   <circle cx="270" cy="138" r="5" fill="#663399"/>
   <text x="285" y="142" class="gray">CSS</text>
   <text x="470" y="142" class="gray" text-anchor="end">3.1%</text>
